@@ -3,6 +3,8 @@ My i3 gaps layout with alacritty &amp; polybar
 
 place the alacritty.yml in ~/.config/alacritty/alacritty.yml
 
+place the forest folder in ~/.config/polybar/    and launch it with the launch.sh
+
 credit to the maker of this wallpaper:https://unsplash.com/photos/v7daTKlZzaw
 
 screenshots are here : https://www.reddit.com/r/unixporn/comments/p17z1f/i3gaps_nord_theme_my_first_rice/
